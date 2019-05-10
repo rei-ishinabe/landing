@@ -1,0 +1,13 @@
+.btn {
+  background-color: #3F619D;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  opacity: 1.0;
+}
+
+.btn:hover {
+  background-color: #3F619D;
+  color: white;
+  opacity: 0.8;
+}

@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(https://picsum.photos/id/1036/4608/3072);
+  background-size: cover;
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 2px 2px 16px #555;
+}
+
+.banner p {
+  color: white;
+  text-shadow: 2px 2px 16px #555;
+  margin-bottom: 36px;
+}

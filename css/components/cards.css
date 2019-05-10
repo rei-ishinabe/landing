@@ -1,0 +1,38 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.card {
+  width: 220px;
+  height: 360px;
+  text-align: center;
+  padding: 10px 10px;
+  box-shadow: 1px 1px 36px 1px rgba(128,128,128,0.1);
+}
+
+.card img {
+  width: 220px;
+  height: 160px;
+  border-radius: 1px;
+}
+
+.card h3 {
+  font-size: 16px;
+}
+
+.card p {
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.card a {
+  font-size: 14px;
+  color:#54555A;
+  opacity: 0.6;
+}
+
+.card a:hover {
+  opacity: 1.0;
+}
